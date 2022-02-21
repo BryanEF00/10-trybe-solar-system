@@ -27,3 +27,20 @@ body {
 .planetsContainer img {
   height: 150px;
 }
+
+.missionsContainer {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  margin-top: 25px;
+  text-align: center;
+  width: 100%;
+}
+
+.missionsContainer div {
+  border: 10px white;
+  margin: 10px;
+  width: 250px;
+}
